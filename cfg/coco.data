@@ -1,5 +1,5 @@
 classes= 1
-train  = /content/gdrive/MyDrive/YOLOv4/train.txt
+train  = /content/darknet/data/train.txt
 #valid  = coco_testdev
 #valid = data/coco_val_5k.list
 names = /content/darknet/data/coco.names
