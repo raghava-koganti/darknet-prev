@@ -1,8 +1,7 @@
 classes= 1
-train  = /content/gdrive/MyDrive/YOLOv4/train.txt
-#valid  = coco_testdev
-#valid = data/coco_val_5k.list
+train  = C:/Users/RAKOGANT/Documents/POC/train.txt
+#train = E:/MSCOCO/5k.txt
+#valid  = E:/MSCOCO/5k.txt
 names = /content/darknet/data/coco.names
 backup = /content/gdrive/MyDrive/YOLOv4/backup/
 #eval=coco
-
